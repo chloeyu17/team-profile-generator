@@ -11,6 +11,7 @@ This application is built with JavaScript, Node.js, HTML, CSS, Bootstrap, and NP
 After cloning or copying, run npm install in your terminal at the root to install any requirements. Run node index.js to run start the application. Answer the questions.
 
 ![InstructionalGif](./demos/demo.gif)
+Video: https://drive.google.com/file/d/1pFx4lBG1Z3H_-Iajgv3k8cz4GQ439-1L/view
 
 # Links
 * Application URL: https://chloeyu17.github.io/team-profile-generator
@@ -18,7 +19,10 @@ After cloning or copying, run npm install in your terminal at the root to instal
 * Generated HTML URL: https://chloeyu17.github.io/team-profile-generator/HTMLexample/team.html
 
 # Tests 
-Run either npm run test to run the full test suite or jest test name to run the test individually.
+Run either npm run test to run the full test suite or jest test name to run the test individually.  The Gif is included in the usage section.
+
+Video: https://drive.google.com/file/d/1pFx4lBG1Z3H_-Iajgv3k8cz4GQ439-1L/view
+
 
 # Collaborators
 * Jason Barbanel
